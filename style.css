@@ -1,0 +1,13 @@
+.max{
+    font-size: xx-large;
+    width: 80%;
+    border-radius: 50px;
+}
+
+body{
+    background-color: aqua;
+}
+
+button{
+    border-radius: 50px !important;
+}
